@@ -1,11 +1,8 @@
-# Please use wkhtmltopdf-binary-edge gem
+# Please use wkhtmltopdf-binary-edge gem for Ubuntu 12.04 and Ubuntu 14.04
 
 ```ruby
 gem 'wkhtmltopdf-binary-edge', '~> 0.12.2.1'
 ```
 
-## see: [https://rubygems.org/gems/wkhtmltopdf-binary-edge](https://rubygems.org/gems/wkhtmltopdf-binary-edge)
-### github: [pallymore/wkhtmltopdf-binary-edge](https://github.com/pallymore/wkhtmltopdf-binary-edge)
-
-# (Deprecated) wkhtmltopdf-binary
-This fork uses the updated wkhtmltopdf (> 0.12.0) binaries for Linux x86 and x64, and MacOSs
+This is updated wkhtmltopdf-binary for Cedar stack Heroku
+wkhtmltopdf version 11.0
